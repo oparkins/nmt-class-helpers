@@ -1,47 +1,5 @@
 # Project 3 #
 ## CSE 353 Fall 2018 ##
-
-## Document ##
-### General Project ###
-Build System (Makefile)
-Clean Exit
-Frame Format Design
-Proper naming of directory and tarball
-
-### Node ###
-Proper instantiation of nodes
-Read input file
-Write output file
-Only accept frames destined for it
-Sent Frame Buffer and Re-transmission on failure
-Proper Introduction of Error into both networks
-Proper error recovery
-
-### Switches ###
-Accept multiple connections
-Global firewall in Core of the Central Star core switch
-Reply ACK/NACK
-Read firewall file in core switch
-Core switch shadow and proper presentation of shadow traffic handling after main
-switch failure.
-Sending firewall rules from Core of the Central Star to Core switches of Arms-end Stars
-Local firewall
-
-### Documentation ###
-Frame Format Specification
-Compilation Instructions
-Useful Comments and Self-documenting variable names
-Proper use of Git repository
-Feature Checklist
-
-
-## Responsibilities ##
-Yash - Switch to Central Switch handshake, and do the routing table
-Owen - Fix synchronization issues (setup, run, destroy phases), and comment the code :-), edit the start network script.
-Chrales - Firewall configuration loading and processing
-
-
-
 # Project Description #
 Due date: Sunday, Nov 25th, 11:59pm
 Star of Stars with BRIDGE and FIREWALL
