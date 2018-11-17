@@ -1,5 +1,5 @@
 # Project 3 #
-## CSE 353 Fall 2018##
+## CSE 353 Fall 2018 ##
 
 ## Document ##
 ### General Project ###
